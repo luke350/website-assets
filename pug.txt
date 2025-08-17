@@ -1,0 +1,23 @@
+Pug Dogs - Website Assets
+
+This repository now includes pug-related assets for website use.
+
+ASCII Pug:
+```
+     ,-""""-.
+   ,'        `.
+  /   ,---.    \
+ |   / ,-, \    |
+ |  | (o o) |   |
+  \  \  -  /   /
+   `. `---' ,'
+     `-----'
+     
+  woof! 🐕
+```
+
+Pug Facts:
+- Pugs are small dogs with wrinkled faces
+- They originated in China
+- They're known for being friendly and social
+- Perfect for website mascots!
